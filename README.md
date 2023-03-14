@@ -5,11 +5,11 @@ Project template incorporating [Svelte](https://svelte.dev) with [Three.js](http
 ![screencapture](https://user-images.githubusercontent.com/1213591/188254873-82f8786d-e3cb-421c-8cb8-27462481fc85.gif)
 
 This project includes:
+
 - [Svelte](https://svelte.dev)
 - [SvelteKit](https://kit.svelte.dev/)
 - [Three.js](https://threejs.org/)
 - [Vite](https://vitejs.dev/)
-
 
 ## Developing
 
@@ -33,3 +33,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+# Host
+
+https://svelte-kit-three-k8f8pdmdb-facorreiaa.vercel.app/
